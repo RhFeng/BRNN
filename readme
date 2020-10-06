@@ -1,2 +1,3 @@
 Bayeisan lstm for lithology classification
-download keras-BayesianRNN
+Need to download keras-BayesianRNN
+https://github.com/RhFeng/keras-BayesianRNN
